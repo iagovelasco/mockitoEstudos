@@ -1,0 +1,19 @@
+package br.com.caelum.leilao.dominio;
+
+import org.junit.Test;
+
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
+
+import br.com.caelum.leilao.infra.dao.LeilaoDao;
+public class LeilaoDaoTest {
+
+	@Test
+	public void qualquerTeste(){
+		LeilaoDao leilaoDao = new mock(LeilaoDao.class);
+		
+		when(leilaoDao.teste()).the
+		
+	}
+	
+}
