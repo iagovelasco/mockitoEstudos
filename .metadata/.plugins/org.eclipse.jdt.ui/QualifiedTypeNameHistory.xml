@@ -2,12 +2,16 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="br.com.caelum.leilao.builder.CriadorDeLeilao"/>
-<fullyQualifiedTypeName name="br.com.caelum.leilao.dominio.Leilao"/>
 <fullyQualifiedTypeName name="org.junit.Assert"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
-<fullyQualifiedTypeName name="br.com.caelum.leilao.servico.EncerradorDeLeilao"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="br.com.caelum.leilao.infra.dao.LeilaoDao"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.infra.dao.RepositorioDeLeiloes"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.servico.EncerradorDeLeilao"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.dominio.Leilao"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.servico.EnviadorDeEmail"/>
+<fullyQualifiedTypeName name="org.mockito.InOrder"/>
 </qualifiedTypeNameHistroy>
