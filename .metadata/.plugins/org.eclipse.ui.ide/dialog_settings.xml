@@ -13,7 +13,7 @@
 	</section>
 	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
 		<item value="true" key="ShowStatusLine"/>
-		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode path=&quot;/teste-de-unidade/test/br/com/caelum/leilao/dominio/LeilaoTest.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/teste-de-unidade/src/br/com/caelum/leilao/infra/dao/LeilaoDao.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode path=&quot;/teste-de-unidade/test/br/com/caelum/leilao/dominio/LeilaoTest.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/teste-de-unidade/src/br/com/caelum/leilao/infra/dao/LeilaoDao.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/teste-de-unidade/test/br/com/caelum/leilao/servico/EncerradorDeLeiLaoTest.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/teste-de-unidade/src/br/com/caelum/leilao/infra/email/GeradorDePagamento.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/teste-de-unidade/test/br/com/caelum/leilao/servico/GeradorDePagamentoTest.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
 		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
 		<item value="false" key="ShowDerived"/>
 		<section name="DialogBoundsSettings">

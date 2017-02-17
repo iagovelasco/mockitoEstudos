@@ -1,0 +1,24 @@
+package br.com.caelum.leilao.infra.email;
+
+import java.util.List;
+
+import br.com.caelum.leilao.dominio.Leilao;
+import br.com.caelum.leilao.infra.dao.RepositorioDeLeiloes;
+import br.com.caelum.leilao.servico.Avaliador;
+
+public class GeradorDePagamento {
+
+	private final RepositorioDeLeiloes leiloes;
+
+	public GeradorDePagamento(RepositorioDeLeiloes leiloes, Avaliador avaliador){
+		this.leiloes = leiloes;
+		this.avaliador = avaliador;
+	}
+	public void gera(){
+		List<Leilao> leilosEncerrados = this.leiloes.encerrados();
+		
+		for(Leilao leilao : leilosEncerrados){
+			this.avaliador.avalia(leilao);
+		}
+	}
+}
